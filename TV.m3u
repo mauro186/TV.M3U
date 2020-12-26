@@ -2,6 +2,5 @@
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w216871544.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV",ORO MAR TV 
 http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png"group-title="RADIO", UCSG HD
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w216871544.m3u8
-
+#EXTINF:-1 tvg-logo="http://radiocontacto1080am.com/wp-content/themes/radiocontacto/img/radio-contacto_logo.png" group-title="RADIO", RADIO CONTACTO MANTA 1080 AM 
+http://streaming.radiocontacto1080am.com:8000/radio
