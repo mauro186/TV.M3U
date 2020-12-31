@@ -44,6 +44,15 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="TV ESPAÑA", ANTENA 3
 https://directo.atresmedia.com/1609448308_17c47749c8b8cd6b555d96d1bf853c387bc19db3/antena3/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="TV ESPAÑA", 24 HORAS
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.urbanrevolution.es/videos/userPhoto/logo.png?1608759549" group-title="TV ESPAÑA", Urban Revolution
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/125px-Teledeporte.svg.png" group-title="TV ESPAÑA", Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/80px-TV3.svg.png" group-title="TV ESPAÑA", TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR
+
 
 
 #EXTINF:-1 tvg-logo="http://radiocontacto1080am.com/wp-content/themes/radiocontacto/img/radio-contacto_logo.png" group-title="RADIO", RADIO CONTACTO MANTA 1080 AM 
