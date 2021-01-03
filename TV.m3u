@@ -66,6 +66,14 @@ https://directo.atresmedia.com/1609456841_2961bfcba0de51a0fca6e22a32ec4b5eecb297
 https://directo.atresmedia.com/1609456095_db351386cbcc1414f832f4c8be186b5ca228fe44/geoneox/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/175px-Nova.svg.png" group-title="TV ESPAÑA", NOVA
 https://directo.atresmedia.com/1609456841_2961bfcba0de51a0fca6e22a32ec4b5eecb29732/geonova/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://eu2-prod-images.disco-api.com/2019/04/15/channel-14-2789530555151945.jpg?h=100" group-title="TV ESPAÑA", DISCOVERI MAX
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1219976164.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GolT.gif/220px-GolT.gif.PNG" group-title="TV ESPAÑA", GOL
+https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTg4LjIzOS4xMzUuMTgzLzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA5NzkzOTE2fX19XX0_&Signature=SrnKpGgcgS0QCdKQaL1o1-ebyLjM7yOvNQ0T8gzZ8dLo3u9dCT6GrI4khkzBF8-RPjTfA4SjgYQmGLKtzENf3gitrxIf7RHctZkc1A2~mCaDBKLL6dsJhYfJLziyFWK2fzAnqay-kWoCUK~bAQ3WNaZ62D92XniDO1tf4lSjsu~muEVm5YoMo072tyv0uMDK0QEQaFbMw7wyDzqzWJpofDyHHSwLt9jNKacQz2rt2KLzL4CvjNDmnjvPaf-3OeQG43UiZJxjgIwpVc342T7qXe6LVcj6lHyVyrV0-msZkci914S-c1G2BCuENqQtAuH0BZ4ebzuvecpM8MNsnnuPiQ__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png" group-title="TV ESPAÑA", TV REAL MADRID
+https://playback2.akamaized.net/streams/28858497_8977969_lsi97h4l24pz6lh9gcm_1/exp=1609794339~acl=%2f*~data=hdntl~hmac=bdd9e4bcd1c289d1b17d8c96604ec742fc4710f1ec21c1584c2d25294503f5cf/media/28858497_8977969_lsi97h4l24pz6lh9gcm_1@5256000pb.m3u8?dw=80&ts=1609707600
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8Ddl4zyoHwlPQyTxCRCrJidgDDgT1Dq6INZkizYneQyvmCczwIpDBZmesCN-1c4i5AlhgwdcljxnmS_26KVzw6XyaA" group-title="TV COLOMBIA", RCN COLOMBIA
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT182dkfx-sQL8-Rxq64_BI)/dm/3/x7vyv0z/s/live-3.m3u8
 
 
 
