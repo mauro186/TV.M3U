@@ -20,9 +20,9 @@ https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w628057
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU TV 2
 https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS1
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA5MDg2ODQ4LCJzZXNzaW9uIjoiMTg2LjE3OC4yMS4xNzciLCJ3aGl0ZWxpc3QiOlsiMjgwMDo0ZjA6NTJmOmZhMjA6YzczOjI2YzA6ZmEwNzo1MjIiXX0sInNpZ25hdHVyZSI6IjQyZTUzNmY1NTA2YjU0Mjc1MGYzYjUxYjE3ZjE0NTlkYjk5NzAzZTAifQ%3D%3D
+https://vps-c97214f4.vps.ovh.net/hls/ectv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS2
-http://173.212.247.99/hls/tvec3.m3u8
+https://vps-c97214f4.vps.ovh.net/hls/ectv2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215335982825951238/OEd8O8Cs_400x400.jpg" group-title="TV ECUADOR",CANAL 1
 https://vps-c97214f4.vps.ovh.net/hls/ectv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="TV ECUADOR",INTI ECUADOR
