@@ -27,7 +27,7 @@ https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b89800
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS2
 http://173.212.247.99/hls/tvec3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215335982825951238/OEd8O8Cs_400x400.jpg" group-title="TV ECUADOR",CANAL 1
-http://173.212.247.99/hls/tvec1.m3u8
+https://vps-c97214f4.vps.ovh.net/hls/ectv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="TV ECUADOR",INTI ECUADOR
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvncanal.com.ec/tvncn/templates/ja_teline_iv_t3/images/logo.png" group-title="TV ECUADOR",TVN ECUADOR
