@@ -21,9 +21,9 @@ http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
-https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist_w628057616_b2108000_sleng.m3u8
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU TV 2
-https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/playlist.m3u8?PlaylistM3UCL
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w1345585903.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS1
 https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTQxNzIzLCJzZXNzaW9uIjoiMTg4LjIzOS4xMzMuNjkiLCJ3aGl0ZWxpc3QiOlsiMTg4LjIzOS4xMzMuNjkiXX0sInNpZ25hdHVyZSI6Ijg0MDkwZWFhMWVhNzczMTc1MDA4Y2M5YjBhNzRiZGVhOWFiNTBjY2UifQ==
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS2
