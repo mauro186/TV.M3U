@@ -27,12 +27,8 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU TV 2
 https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w1345585903.m3u8
-#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS1
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTQxNzIzLCJzZXNzaW9uIjoiMTg4LjIzOS4xMzMuNjkiLCJ3aGl0ZWxpc3QiOlsiMTg4LjIzOS4xMzMuNjkiXX0sInNpZ25hdHVyZSI6Ijg0MDkwZWFhMWVhNzczMTc1MDA4Y2M5YjBhNzRiZGVhOWFiNTBjY2UifQ==
-#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS2
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTQxNzIzLCJzZXNzaW9uIjoiMTg4LjIzOS4xMzMuNjkiLCJ3aGl0ZWxpc3QiOlsiMTg4LjIzOS4xMzMuNjkiXX0sInNpZ25hdHVyZSI6Ijg0MDkwZWFhMWVhNzczMTc1MDA4Y2M5YjBhNzRiZGVhOWFiNTBjY2UifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS3
-https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215335982825951238/OEd8O8Cs_400x400.jpg" group-title="TV ECUADOR",CANAL 1
 https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="TV ECUADOR",ECOTEL TV
