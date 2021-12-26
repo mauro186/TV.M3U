@@ -13,17 +13,19 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w180331534.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV2
 https://video1.getstreamhosting.com:1936/8296/8296/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS 2
 https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS INTERNACIONAL
 http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
-https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
 https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU TV 2
 https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w1345585903.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS3
 https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215335982825951238/OEd8O8Cs_400x400.jpg" group-title="TV ECUADOR",CANAL 1
@@ -31,7 +33,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="TV ECUADOR",ECOTEL TV
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-logo="http://www.telerama.ec/images/logo.png" group-title="TV ECUADOR",TELERAMA TV
-http://181.175.114.83:8080/livestream/stream.m3u8
+https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="TV ECUADOR",INTI ECUADOR
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvncanal.com.ec/tvncn/templates/ja_teline_iv_t3/images/logo.png" group-title="TV ECUADOR",TVN ECUADOR
