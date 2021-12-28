@@ -36,6 +36,8 @@ http://45.179.140.242:8000/play/a0ht
 http://45.179.140.242:8000/play/a0jp
 #EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS
 http://45.179.140.242:8000/play/a0kw
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/109037038122033/picture?width=320&height=320" group-title="TV ECUADOR",TELECLASICOS
+https://tvdatta.com:3484/stream/play.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="TV ECUADOR",RTU
 https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="TV ECUADOR",WUAN+
