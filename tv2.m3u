@@ -74,18 +74,6 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
 
-#EXTINF:-1 channel-id="1004" tvg-id="•●★--DEPORTES ECUADOR--★●•" tvg-logo=""  channel-id="•●★--DEPORTES ECUADOR--★●•" group-title="LA-ECUADOR",•●★--DEPORTES ECUADOR--★●•
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/60145
-#EXTINF:-1 channel-id="1005" tvg-id="ECU-PPV 1 (PM)(1080) " tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 1 (PM)(1080) " group-title="LA-ECUADOR",ECU-PPV 1 (PM)(1080) 
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/66867
-#EXTINF:-1 channel-id="1006" tvg-id="ECU-PPV 2 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 2 (PM)(720)" group-title="LA-ECUADOR",ECU-PPV 2 (PM)(720)
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/66868
-#EXTINF:-1 channel-id="1007" tvg-id="ECU-PPV 3 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 3 (e)(SD)" group-title="LA-ECUADOR",ECU-PPV 3 (e)(SD)
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/69536
-#EXTINF:-1 channel-id="1008" tvg-id="ECU-Directv Sports (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(1080)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(1080)
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/989
-#EXTINF:-1 channel-id="1009" tvg-id="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(720)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(720)
-http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/990
 #EXTINF:-1 channel-id="1010" tvg-id="ECU-Directv Sports (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(SD)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(SD)
 http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/991
 #EXTINF:-1 channel-id="1011" tvg-id="ECU-Gol TV (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV (PM)(1080)" group-title="LA-ECUADOR",ECU-Gol TV (PM)(1080)
