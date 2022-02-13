@@ -74,23 +74,95 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 https://live.unsion.tv/hls/stream_src/index.m3u8
 
 
-#EXTINF:-1,EC: CANAL UNO
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486714
-#EXTINF:-1,EC: CANELA TV
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486718
-#EXTINF:-1,EC: ECUADOR TV
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486720
-#EXTINF:-1,EC: ECUAVISA
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486724
-#EXTINF:-1,EC: GAMAVISION
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486727
-#EXTINF:-1,EC: GOL TV ECUADOR
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486728
-#EXTINF:-1,EC: OROMAR TV
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486730
-#EXTINF:-1,EC: RTS
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486737
-#EXTINF:-1,EC: RTS QUITO
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486738
-#EXTINF:-1,EC: TC TELEVISION
-http://152.89.62.180:80/6TsHqtha5/Wbz13J8d2w/486739
+#EXTINF:-1 channel-id="1004" tvg-id="•●★--DEPORTES ECUADOR--★●•" tvg-logo=""  channel-id="•●★--DEPORTES ECUADOR--★●•" group-title="LA-ECUADOR",•●★--DEPORTES ECUADOR--★●•
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/60145
+#EXTINF:-1 channel-id="1005" tvg-id="ECU-PPV 1 (PM)(1080) " tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 1 (PM)(1080) " group-title="LA-ECUADOR",ECU-PPV 1 (PM)(1080) 
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/66867
+#EXTINF:-1 channel-id="1006" tvg-id="ECU-PPV 2 (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 2 (PM)(720)" group-title="LA-ECUADOR",ECU-PPV 2 (PM)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/66868
+#EXTINF:-1 channel-id="1007" tvg-id="ECU-PPV 3 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png"  channel-id="ECU-PPV 3 (e)(SD)" group-title="LA-ECUADOR",ECU-PPV 3 (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/69536
+#EXTINF:-1 channel-id="1008" tvg-id="ECU-Directv Sports (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(1080)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/989
+#EXTINF:-1 channel-id="1009" tvg-id="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(720)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/990
+#EXTINF:-1 channel-id="1010" tvg-id="ECU-Directv Sports (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png"  channel-id="ECU-Directv Sports (e)(SD)" group-title="LA-ECUADOR",ECU-Directv Sports (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/991
+#EXTINF:-1 channel-id="1011" tvg-id="ECU-Gol TV (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV (PM)(1080)" group-title="LA-ECUADOR",ECU-Gol TV (PM)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1097
+#EXTINF:-1 channel-id="1012" tvg-id="ECU-Gol TV  (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV  (TV)(720)" group-title="LA-ECUADOR",ECU-Gol TV  (TV)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22160
+#EXTINF:-1 channel-id="1013" tvg-id="ECU-Gol TV (e)(720)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV (e)(720)" group-title="LA-ECUADOR",ECU-Gol TV (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1098
+#EXTINF:-1 channel-id="1014" tvg-id="ECU-Gol Tv (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol Tv (e)(SD)" group-title="LA-ECUADOR",ECU-Gol Tv (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1099
+#EXTINF:-1 channel-id="1015" tvg-id="ECU-Gol TV  (M)" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png"  channel-id="ECU-Gol TV  (M)" group-title="LA-ECUADOR",ECU-Gol TV  (M)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22153
+#EXTINF:-1 channel-id="1016" tvg-id="ECU-Canal Del Futbol (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png"  channel-id="ECU-Canal Del Futbol (PM)(1080)" group-title="LA-ECUADOR",ECU-Canal Del Futbol (PM)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/65386
+#EXTINF:-1 channel-id="1017" tvg-id="ECU-Canal Del Futbol (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png"  channel-id="ECU-Canal Del Futbol (PM)(720)" group-title="LA-ECUADOR",ECU-Canal Del Futbol (PM)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/65387
+#EXTINF:-1 channel-id="1018" tvg-id="ECU-Canal Del Futbol (PM)(SD)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png"  channel-id="ECU-Canal Del Futbol (PM)(SD)" group-title="LA-ECUADOR",ECU-Canal Del Futbol (PM)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/65388
+#EXTINF:-1 channel-id="1019" tvg-id="ECU-Gama Tv (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png"  channel-id="ECU-Gama Tv (e)(1080)" group-title="LA-ECUADOR",ECU-Gama Tv (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121625
+#EXTINF:-1 channel-id="1020" tvg-id="ECU-Gama Tv (e)(720)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png"  channel-id="ECU-Gama Tv (e)(720)" group-title="LA-ECUADOR",ECU-Gama Tv (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121626
+#EXTINF:-1 channel-id="1021" tvg-id="ECU-Gama Tv (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png"  channel-id="ECU-Gama Tv (e)(SD)" group-title="LA-ECUADOR",ECU-Gama Tv (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121627
+#EXTINF:-1 channel-id="1022" tvg-id="ECU-Gama TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png"  channel-id="ECU-Gama TV (M)(SD)" group-title="LA-ECUADOR",ECU-Gama TV (M)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22152
+#EXTINF:-1 channel-id="1023" tvg-id="ECU-Teleamazonas Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"  channel-id="ECU-Teleamazonas Quito (e)(1080)" group-title="LA-ECUADOR",ECU-Teleamazonas Quito (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121622
+#EXTINF:-1 channel-id="1024" tvg-id="ECU-Teleamazonas Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"  channel-id="ECU-Teleamazonas Quito (e)(720)" group-title="LA-ECUADOR",ECU-Teleamazonas Quito (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121623
+#EXTINF:-1 channel-id="1025" tvg-id="ECU-Teleamazonas Quito (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"  channel-id="ECU-Teleamazonas Quito (e)(SD)" group-title="LA-ECUADOR",ECU-Teleamazonas Quito (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121624
+#EXTINF:-1 channel-id="1026" tvg-id="ECU-Teleamazona Costa (M)(720)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png"  channel-id="ECU-Teleamazona Costa (M)(720)" group-title="LA-ECUADOR",ECU-Teleamazona Costa (M)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22156
+#EXTINF:-1 channel-id="1027" tvg-id="ECU-RTS Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"  channel-id="ECU-RTS Costa (e)(1080)" group-title="LA-ECUADOR",ECU-RTS Costa (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1103
+#EXTINF:-1 channel-id="1028" tvg-id="ECU-RTS Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"  channel-id="ECU-RTS Costa (e)(720)" group-title="LA-ECUADOR",ECU-RTS Costa (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1104
+#EXTINF:-1 channel-id="1029" tvg-id="ECU-RTS Costa (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png"  channel-id="ECU-RTS Costa (e)(SD)" group-title="LA-ECUADOR",ECU-RTS Costa (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1105
+#EXTINF:-1 channel-id="1030" tvg-id="ECU-Ecuavisa Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Quito (e)(1080)" group-title="LA-ECUADOR",ECU-Ecuavisa Quito (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121619
+#EXTINF:-1 channel-id="1031" tvg-id="ECU-Ecuavisa Quito (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Quito (e)(720)" group-title="LA-ECUADOR",ECU-Ecuavisa Quito (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121620
+#EXTINF:-1 channel-id="1032" tvg-id="ECU-Ecuavisa Quito (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Quito (e)(SD)" group-title="LA-ECUADOR",ECU-Ecuavisa Quito (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/121621
+#EXTINF:-1 channel-id="1033" tvg-id="ECU-Ecuavisa Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Costa (e)(1080)" group-title="LA-ECUADOR",ECU-Ecuavisa Costa (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1109
+#EXTINF:-1 channel-id="1034" tvg-id="ECU-Ecuavisa Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Costa (e)(720)" group-title="LA-ECUADOR",ECU-Ecuavisa Costa (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1110
+#EXTINF:-1 channel-id="1035" tvg-id="ECU-Ecuavisa Costa (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Costa (e)(SD)" group-title="LA-ECUADOR",ECU-Ecuavisa Costa (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1111
+#EXTINF:-1 channel-id="1036" tvg-id="ECU-Ecuavisa Costa (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png"  channel-id="ECU-Ecuavisa Costa (M)(720)" group-title="LA-ECUADOR",ECU-Ecuavisa Costa (M)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22161
+#EXTINF:-1 channel-id="1037" tvg-id="ECU-TC Television Costa (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"  channel-id="ECU-TC Television Costa (e)(1080)" group-title="LA-ECUADOR",ECU-TC Television Costa (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1106
+#EXTINF:-1 channel-id="1038" tvg-id="ECU-TC Television Costa (e)(720)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"  channel-id="ECU-TC Television Costa (e)(720)" group-title="LA-ECUADOR",ECU-TC Television Costa (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1107
+#EXTINF:-1 channel-id="1039" tvg-id="ECU-TC Television Costa (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"  channel-id="ECU-TC Television Costa (e)(SD)" group-title="LA-ECUADOR",ECU-TC Television Costa (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1108
+#EXTINF:-1 channel-id="1040" tvg-id="ECU-TC Television (M)" tvg-logo="https://1.bp.blogspot.com/-wcP6VMNt7Bw/XjhDeq1NnRI/AAAAAAAABCk/ZzNl6uX20GAFmO0F4x6aP92rvwPY3ge2gCLcBGAsYHQ/s200/5.png"  channel-id="ECU-TC Television (M)" group-title="LA-ECUADOR",ECU-TC Television (M)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22155
+#EXTINF:-1 channel-id="1041" tvg-id="ECU-Teleamazonas Costa (e)(1080)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200"  channel-id="ECU-Teleamazonas Costa (e)(1080)" group-title="LA-ECUADOR",ECU-Teleamazonas Costa (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1094
+#EXTINF:-1 channel-id="1042" tvg-id="ECU-Teleamazonas Costa (e)(720)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200"  channel-id="ECU-Teleamazonas Costa (e)(720)" group-title="LA-ECUADOR",ECU-Teleamazonas Costa (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1095
+#EXTINF:-1 channel-id="1043" tvg-id="ECU-Teleamazonas Costa (e)(SD)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgc6FRR27qiAcI2bfnCWmGZYaOjvACUnFWH_ikbsM2bVD8dt2pDnr2DCLJqJK6gsy3Ds2eqDkWcBD1JaDXuvNAuSo0QOvj6wFDiP5jDTivi_hGYZzhOwESMHw6Tp4CF7itQzRG45Qj3IhdbGHOd5nDhGqTXzBnvIhY33OIsVrXKtVUouXvKGXISUNz_=w200-h200"  channel-id="ECU-Teleamazonas Costa (e)(SD)" group-title="LA-ECUADOR",ECU-Teleamazonas Costa (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1096
+#EXTINF:-1 channel-id="1044" tvg-id="ECU-Oromar Tv (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"  channel-id="ECU-Oromar Tv (e)(1080)" group-title="LA-ECUADOR",ECU-Oromar Tv (e)(1080)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1100
+#EXTINF:-1 channel-id="1045" tvg-id="ECU-Oromar Tv (e)(720)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"  channel-id="ECU-Oromar Tv (e)(720)" group-title="LA-ECUADOR",ECU-Oromar Tv (e)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1101
+#EXTINF:-1 channel-id="1046" tvg-id="ECU-Oromar Tv (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"  channel-id="ECU-Oromar Tv (e)(SD)" group-title="LA-ECUADOR",ECU-Oromar Tv (e)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/1102
+#EXTINF:-1 channel-id="1047" tvg-id="ECU-Oromar TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png"  channel-id="ECU-Oromar TV (M)(SD)" group-title="LA-ECUADOR",ECU-Oromar TV (M)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22150
+#EXTINF:-1 channel-id="1048" tvg-id="ECU-RTU (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-H5W5qz0qPb4/XjhHQmMuSPI/AAAAAAAABDo/pjnD_hVKWtARtSvJ_LCkwEvhL5vfFU9xQCLcBGAsYHQ/s200/9.png"  channel-id="ECU-RTU (M)(SD)" group-title="LA-ECUADOR",ECU-RTU (M)(SD)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/22151
+#EXTINF:-1 channel-id="1049" tvg-id="ECU-TVC (TV)(720)" tvg-logo=""  channel-id="ECU-TVC (TV)(720)" group-title="LA-ECUADOR",ECU-TVC (TV)(720)
+http://tv.mediame.xyz:25461/jpapeleto/tz5Xjj59W2/116472
