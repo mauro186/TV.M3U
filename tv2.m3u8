@@ -1,1 +1,133 @@
 
+https://stream-04.nyc.dailymotion.com:443/sec(RiWEtJG0nU_F5iuiUOWAl7Rskm5pS8rDzGyz-4oFTAE)/dm/3/x7wijay/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 2
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7Rskm5pS8rDzGyz-4oFTAE)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TELESISTEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png" group-title="TV ECUADOR", UCSG HD
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w216871544.m3u8
+#EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV ECUADOR", ORO MAR TV 
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="TV ECUADOR", Hechos Ecuador HD
+http://192.99.56.185/hechosecuador/live.m3u8
+#EXTINF:-1tvg-logo="https://rocafuerteenmarcha.com/rw_common/images/rocafuerte.png" group-title="TV ECUADOR", ROCAFUERTE TV/RADIO
+https://video1.lhdserver.es/rocafuerteradiotv/live.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w180331534.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/CaNELA%20TV.JPG" group-title="TV ECUADOR", CANELA TV2
+https://video1.getstreamhosting.com:1936/8296/8296/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS 2
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS INTERNACIONAL
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.ecuavisa.com/sites/default/files/styles/large/public/ecuavisa-footer-logo.png" group-title="TV ECUADOR", ECUAVISA
+
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="TV ECUADOR", RTU TV 2
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w1345585903.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS3
+http://k4.usastreams.com/ARBtv/ARBtv/media_w688157904_9773.m3u
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="TV ECUADOR",ECOTEL TV
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="TV ECUADOR",CLARO SPORT
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/357.png" group-title="TV ECUADOR",ECUADOR TV
+http://45.179.140.242:8000/play/a0jp
+#EXTINF:-1 tvg-logo="https://www.rts.com.ec/wp-content/themes/albavision-theme/img/logo.png" group-title="TV ECUADOR",RTS
+http://45.179.140.242:8000/play/a0kw
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/109037038122033/picture?width=320&height=320" group-title="TV ECUADOR",TELECLASICOS
+https://tvdatta.com:3484/stream/play.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="TV ECUADOR",RTU
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/WuanPlus/picture?width=320&height=320" group-title="TV ECUADOR",WUAN+
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.telerama.ec/images/logo.png" group-title="TV ECUADOR",TELERAMA TV
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="TV ECUADOR",INTI ECUADOR
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvncanal.com.ec/tvncn/templates/ja_teline_iv_t3/images/logo.png" group-title="TV ECUADOR",TVN ECUADOR
+http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w1757643060.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/mauro186/imagenes/blob/main/LATINA.jpeg" group-title="TV ECUADOR", LATINOTV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosolidaridad.com/wp-content/uploads/2019/05/logo_solidaridad.png" group-title="TV ECUADOR",RADIO TV Y SOLIDARIDAD
+https://sv72.ecuaradiotv.net/fundacionvista/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="TV ECUADOR",PURUWA LIVE
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2017/10/logo2.png" group-title="TV ECUADOR", MAX TV
+https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist_w1382007926.m3u8
+#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2017/10/logo2.png" group-title="TV ECUADOR", MAX TV 2
+https://streamingwowza.com:1936/wuanplus/wuanplus/chunklist_w1382007926.m3u8
+#EXTINF:-1 tvg-logo="https://cctvquevedo.com/wp-content/uploads/2020/07/logoCTV-1.png" group-title="TV ECUADOR", CINE CABLE
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.ecotel.tv/wp-content/uploads/2015/03/Ecotel-tv-logo-nuevo.png" group-title="TV ECUADOR", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 tvg-logo="http://centroecuador.ec/wp-content/uploads/2016/10/CENTRO-mueve-tu-vida-e1477167079903.png" group-title="TV ECUADOR", CENTRO TV
+https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?customtoken=34597bfc-0a23-447d-aee9-a7424d34022f&hdnts=exp=1628858270~acl=*~hmac=14beca9240b5aba4c628c7ab403f4b438e7db68853030a270250fd7d4fbf02d9&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&resellerId=57c5f08c2cdcf929dd79a688
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Ecuador-TV-en-vivo-Online-100x70.png" group-title="TV ECUADOR", ECUADOR TV
+http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
+#EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
+https://live.unsion.tv/hls/stream_src/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2015/09/WhatsApp-Image-20160715.jpeg" group-title="ECUADOR",TELEAMAZONAS
+http://195.154.183.216:8090/notocar/xmauc84bx1/3166
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="LA_SD:SUR_RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA",LA_SD:SUR_RCN NUESTRA TELE
+http://195.154.183.216:8090/notocar/xmauc84bx1/3122
+#EXTINF:-1 tvg-id="RCNTV.co" tvg-name="RCN hd" tvg-logo="https://i.ytimg.com/vi/HivPwc0IWXc/hqdefault.jpg" group-title="COLOMBIA",RCN hd
+http://195.154.183.216:8090/notocar/xmauc84bx1/3121
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV ECUADOR FHD (e)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",DIRECTV ECUADOR FHD (e)
+http://195.154.183.216:8090/notocar/xmauc84bx1/2690
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ECUADOR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Goltv.gif" group-title="ECUADOR",GOL TV ECUADOR 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2689
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONA FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONA FHD 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2687
+#EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC TELEVISION HD
+http://195.154.183.216:8090/notocar/xmauc84bx1/2686
+#EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION FHD (EC) (e)" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/TC-Televisi%C3%B3n.png" group-title="ECUADOR",TC TELEVISION FHD (EC) (e)
+http://195.154.183.216:8090/notocar/xmauc84bx1/2685
+#EXTINF:-1 tvg-id="" tvg-name="OROMAR TV SD (EC) (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/300px-Oromar_logo.png" group-title="ECUADOR",OROMAR TV SD (EC) (m)
+http://195.154.183.216:8090/notocar/xmauc84bx1/2681
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV " tvg-logo="https://4.bp.blogspot.com/-A4NS5Y030Lc/Wx7kK6S5L1I/AAAAAAAAGB4/-WpiCM0fcEkxwN2v3HR-vIRxThhyqa9CQCLcBGAs/s200/Nuevologo-Gamavisi%25C3%25B3n.png" group-title="ECUADOR",GAMA TV 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2680
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA SD (EC) (m)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Logo_9.png/revision/latest/scale-to-width-down/220?cb=20180130013250&path-prefix=es" group-title="ECUADOR",ECUAVISA SD (EC) (m)
+http://195.154.183.216:8090/notocar/xmauc84bx1/2677
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA SIERRA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ecuavisa.png" group-title="ECUADOR",ECUAVISA SIERRA
+http://195.154.183.216:8090/notocar/xmauc84bx1/2676
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Ecuavisa-01.png/revision/latest?cb=20171021235852" group-title="ECUADOR",ECUAVISA 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2675
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV " tvg-logo="https://pbs.twimg.com/profile_images/986225858879873024/JZugB3pF_400x400.jpg" group-title="ECUADOR",ECUADOR TV 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2674
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV OPCION 2" tvg-logo="https://pbs.twimg.com/profile_images/986225858879873024/JZugB3pF_400x400.jpg" group-title="ECUADOR",ECUADOR TV OPCION 2
+http://195.154.183.216:8090/notocar/xmauc84bx1/2673
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO " tvg-logo="https://3.bp.blogspot.com/-FL1zUnUXJYY/W0plHsjff7I/AAAAAAAAGXE/NwHQA09f5QEoJxd4PQzsOdJ6yn0ymbanQCLcBGAs/s1600/uno%2Becuador.png" group-title="ECUADOR",CANAL UNO 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2672
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTR7HrYde0IhHrbHaSdEhEobsSEKawQWimZ8aT8xgTx0plRwDTu" group-title="ECUADOR",CANAL UNO HD 
+http://195.154.183.216:8090/notocar/xmauc84bx1/2671
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO OPCION 3" tvg-logo="http://www.conmicelu.com/wp-content/uploads/2017/04/canal-uno-en-vivo-ecuador.jpg" group-title="ECUADOR",CANAL UNO OPCION 3
+http://195.154.183.216:8090/notocar/xmauc84bx1/2670
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS ECUADOR" tvg-logo="https://www.karlosperu.com/wp-content/uploads/2018/12/Sin-ewewesDddEfd.jpg" group-title="ECUADOR",DIRECTV SPORTS ECUADOR
+http://195.154.183.216:8090/notocar/xmauc84bx1/2314
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD:EC_GOLTV ECUADOR" tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector.png" group-title="ECUADOR",LA_HD:EC_GOLTV ECUADOR
+http://195.154.183.216:8090/notocar/xmauc84bx1/2313
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:Gol TV" tvg-logo="https://4.bp.blogspot.com/-5xoi8pfZP48/XcRZ8LQ1FWI/AAAAAAAAg78/rzBz_CO0z-8EqTF04eEUOSi80vx2Q3xVgCLcBGAsYHQ/s640/GolTV%2BEcuador%2B%255BEN%2BVIVO%255D.jpg" group-title="ECUADOR",LA_SD:Gol TV
+http://195.154.183.216:8090/notocar/xmauc84bx1/2312
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_EC_ETC TV ECUADOR" tvg-logo="" group-title="ECUADOR",LA_SD:SUR_EC_ETC TV ECUADOR
+http://195.154.183.216:8090/notocar/xmauc84bx1/2311
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_OROMAR TV" tvg-logo="https://seeklogo.com/images/O/oromar-television-logo-FBF7B70BD5-seeklogo.com.png" group-title="ECUADOR",LA_SD:SUR_OROMAR TV
+http://195.154.183.216:8090/notocar/xmauc84bx1/2310
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS ECUADOR" tvg-logo="https://dynamicimages.directvsports.com/images/rest/Photo/Photos/General/65/44/26/654426_Rect169_480.jpg" group-title="DEPORTES HD",DIRECTV SPORTS ECUADOR
+http://195.154.183.216:8090/notocar/xmauc84bx1/2283
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="GOL TV ECUADOR" tvg-logo="https://radiohuancavilca.com.ec/wp-content/uploads/2017/06/goltv.jpg" group-title="DEPORTES HD",GOL TV ECUADOR
+http://195.154.183.216:8090/notocar/xmauc84bx1/2258
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL" tvg-logo="https://www.xtrim.ec/images/xtr-vod-item-logo-ecdf.png" group-title="ECUADOR",EL CANAL DEL FUTBOL
+http://195.154.183.216:8090/notocar/xmauc84bx1/22627
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DEL FUTBOL" tvg-logo="https://image.roku.com/channels/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="ECUADOR",CANAL DEL FUTBOL
+http://195.154.183.216:8090/notocar/xmauc84bx1/32711
+
+#EXTINF:-1,EC: CANALfutbol
+http://gratis.shortgod.com/ratonescuriosos/tv4.1.php?c=204396.m3u8
