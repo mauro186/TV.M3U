@@ -5,7 +5,7 @@ https://stream-04.nyc.dailymotion.com:443/sec(RiWEtJG0nU_F5iuiUOWAl1Q9dTNCHIccbW
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png" group-title="TV ECUADOR", UCSG HD
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-logo="http://oromartv.com/wp-content/uploads/2016/05/oromartv-logo.png" group-title="TV ECUADOR", ORO MAR TV 
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+http://vps-c97214f4.vps.ovh.net:80/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://www.hechosecuador.com/rw_common/images/logo2021.png" group-title="TV ECUADOR", Hechos Ecuador HD
 http://192.99.56.185/hechosecuador/live.m3u8
 #EXTINF:-1tvg-logo="https://rocafuerteenmarcha.com/rw_common/images/rocafuerte.png" group-title="TV ECUADOR", ROCAFUERTE TV/RADIO
@@ -16,3 +16,5 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w180331534.m3u8
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1231033442.m3u8
 #EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS
 http://vps-c97214f4.vps.ovh.net:80/hls/ecutv3.m3u8
+#EXTINF:-1 tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2020/10/cropped-Logo-blanco-1.png" group-title="TV ECUADOR", TELEAMAZONAS INTERNACIONAL
+http://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
