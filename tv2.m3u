@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION	
-https://stream-04.nyc.dailymotion.com:443/sec(RiWEtJG0nU_F5iuiUOWAl81EzUxu71z9eBXJ1CC81sEfLrDQw8DEfz6igbayv68_)/dm/3/x7wijay/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com:443/sec(RiWEtJG0nU_F5iuiUOWAl1Q9dTNCHIccbWJp-Ste9al5ZLrbSJDxsuvdXUuPZaZr)/dm/3/x7wijay/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 2
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl81EzUxu71z9eBXJ1CC81sEfLrDQw8DEfz6igbayv68_)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1Q9dTNCHIccbWJp-Ste9al5ZLrbSJDxsuvdXUuPZaZr)/dm/3/x7wijay/d/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TELESISTEMA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_UCSG.svg/250px-Logo_UCSG.svg.png" group-title="TV ECUADOR", UCSG HD
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w216871544.m3u8
