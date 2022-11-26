@@ -60,6 +60,10 @@ http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 https://live.unsion.tv/hls/stream_src/index.m3u8
 #EXTINF:-1,CLARO SPORTS,
 http://flash.shortgod.com/perugod3/tv8.php?id=169951
+#EXTINF:-1,DIRECTV SPORTS PE
+http://flash.shortgod.com/perugod3/tv8.php?id=165215
+#EXTINF:-1,DIRECTV SPORTS
+http://flash.shortgod.com/perugod3/tv8.php?id=169906
 #EXTINF:-1,CLARO SPORTS HD,
 http://flash.shortgod.com/perugod3/tv8.php?id=169909
 #EXTINF:-1,ESPN DEPORTES
