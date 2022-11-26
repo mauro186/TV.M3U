@@ -58,38 +58,45 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1,ECUAVISA HD
-http://flash.shortgod.com/perugod3/tv6.php?id=1538
-#EXTINF:-1,RTS HD
-http://flash.shortgod.com/perugod3/tv6.php?id=1539
-#EXTINF:-1,TELEAMAZONAS FHD
-http://flash.shortgod.com/perugod3/tv6.php?id=1540
-#EXTINF:-1,TC TELEVISION HD
-http://flash.shortgod.com/perugod3/tv6.php?id=1542
-#EXTINF:-1,,EC: EL CANAL DEL FUTBOL
-http://flash.shortgod.com/perugod3/tv6.php?id=1870
-#EXTINF:-1,EC GOL TV FHD
-http://flash.shortgod.com/perugod3/tv6.php?id=14880
-#EXTINF:-1,Teleamazonas Full HD (Quito)
-http://flash.shortgod.com/perugod3/tv6.php?id=14881
-#EXTINF:-1,EC | CANELATV
-http://flash.shortgod.com/perugod3/tv6.php?id=19679
-#EXTINF:-1,EC | Directv Sports +
-http://flash.shortgod.com/perugod3/tv6.php?id=21794
-#EXTINF:-1,Gol TV ECU FHD
-http://flash.shortgod.com/perugod3/tv6.php?id=54674
-#EXTINF:-1,DTV Sports 2 (Ecuador)
-http://flash.shortgod.com/perugod3/tv6.php?id=55286
-#EXTINF:-1,DTV Sports 1 (Ecuador)
-http://flash.shortgod.com/perugod3/tv6.php?id=65179
-#EXTINF:-1,TVC Ecuador
-http://flash.shortgod.com/perugod3/tv6.php?id=72780
-#EXTINF:-1,Telerama
-http://flash.shortgod.com/perugod3/tv6.php?id=72781
-#EXTINF:-1,Oromar
-http://flash.shortgod.com/perugod3/tv6.php?id=72782
-#EXTINF:-1,Ecuador Tv
-http://flash.shortgod.com/perugod3/tv6.php?id=72783
-#EXTINF:-1,Gamavision
-http://flash.shortgod.com/perugod3/tv6.php?id=72784
-#EXTINF:-1,i | espn2
+#EXTINF:-1,CLARO SPORTS,
+http://flash.shortgod.com/perugod3/tv8.php?id=169951
+#EXTINF:-1,CLARO SPORTS HD,
+http://flash.shortgod.com/perugod3/tv8.php?id=169909
+#EXTINF:-1,ESPN DEPORTES
+http://flash.shortgod.com/perugod3/tv8.php?id=169910
+#EXTINF:-1,ESPN HD (ARG);
+http://flash.shortgod.com/perugod3/tv8.php?id=169952
+#EXTINF:-1,ESPN  SUR HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169911
+#EXTINF:-1,ESPN NORTE HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169912
+#EXTINF:-1,ESPN 2 HD (ARG)
+http://flash.shortgod.com/perugod3/tv8.php?id=169953
+#EXTINF:-1,ESPN 2 SUR HD (E)
+http://flash.shortgod.com/perugod3/tv8.php?id=169913
+#EXTINF:-1,ESPN 2 NORTE HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169914
+#EXTINF:-1,ESPN 3 (ARG)
+http://flash.shortgod.com/perugod3/tv8.php?id=169954
+#EXTINF:-1,ESPN 3 SUR HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169915
+#EXTINF:-1,ESPN 3 NORTE HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169916
+#EXTINF:-1,ESPN 4 HD
+http://flash.shortgod.com/perugod3/tv8.php?id=170212
+#EXTINF:-1,ESPN 4 HD;
+http://flash.shortgod.com/perugod3/tv8.php?id=170211
+#EXTINF:-1,ESPN EXTRA HD,
+http://flash.shortgod.com/perugod3/tv8.php?id=169917
+#EXTINF:-1,ESPN EXTRA HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169918
+#EXTINF:-1,FOX SPORTS NORTE HD
+http://flash.shortgod.com/perugod3/tv8.php?id=169920
+#EXTINF:-1,FOX DEPORTES
+http://flash.shortgod.com/perugod3/tv8.php?id=169919
+#EXTINF:-1,FOX SPORTS (ARG);
+http://flash.shortgod.com/perugod3/tv8.php?id=169955
+#EXTINF:-1,FOX SPORTS SUR HD (E)
+http://flash.shortgod.com/perugod3/tv8.php?id=169956
+#EXTINF:-1,FOX SPORTS 2 (ARG);
+http://flash.shortgod.com/perugod3/tv8.php?id=169957
