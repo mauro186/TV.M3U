@@ -58,96 +58,9 @@ https://streannlive-lh.akamaihd.net/i/RadioCentroQuito_1@189794/master.m3u8?cust
 http://api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://storage.snappages.site/CRSZFT/assets/images/4463618_1280x232_500.png" group-title="TV ECUADOR", UNSION TV
 https://live.unsion.tv/hls/stream_src/index.m3u8
-#EXTINF:-1,EC | Canal Uno HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170157
-#EXTINF:-1,EC | Canal Uno SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170158
-#EXTINF:-1,EC | Canela TV SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170159
-#EXTINF:-1,EC | DIRECTV SPORTS FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170138
-#EXTINF:-1,EC | DIRECTV SPORTS HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170137
-#EXTINF:-1,EC | DIRECTV SPORTS SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170136
-#EXTINF:-1,EC | Ecuador TV FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170139
-#EXTINF:-1,EC | Ecuador TV HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170140
-#EXTINF:-1,EC | Ecuador TV SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170141
-#EXTINF:-1,EC | Ecuavisa FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170142
-#EXTINF:-1,EC | Ecuavisa HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170143
-#EXTINF:-1,EC | Ecuavisa SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170144
-#EXTINF:-1,EC | Ecuavisa Sierra
-http://flash.shortgod.com/dwo20/tv7.php?id=170135
-#EXTINF:-1,EC | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
-http://flash.shortgod.com/dwo20/tv7.php?id=170162
-#EXTINF:-1,EC | EL CANAL DEL FUTBOL HD (SOLO EVENTOS)
-http://flash.shortgod.com/dwo20/tv7.php?id=170163
-#EXTINF:-1,EC | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)
-http://flash.shortgod.com/dwo20/tv7.php?id=170164
-#EXTINF:-1,EC | Gamavision
-http://flash.shortgod.com/dwo20/tv7.php?id=170165
-#EXTINF:-1,EC | GOL TV HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170161
-#EXTINF:-1,EC | Gol TV SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170145
-#EXTINF:-1,EC | GOLTV ECUADOR HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170160
-#EXTINF:-1,EC | Oromar TV FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170146
-#EXTINF:-1,EC | Oromar TV HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170147
-#EXTINF:-1,EC | RTS FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170148
-#EXTINF:-1,EC | RTS HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170149
-#EXTINF:-1,EC | RTS SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170150
-#EXTINF:-1,EC | TC Television FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170151
-#EXTINF:-1,EC | TC Television HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170152
-#EXTINF:-1,EC | TC Television SD
-http://flash.shortgod.com/dwo20/tv7.php?id=170153
-#EXTINF:-1,EC | Teleamazonas
-http://flash.shortgod.com/dwo20/tv7.php?id=170154
-#EXTINF:-1,EC | Teleamazonas FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170166
-#EXTINF:-1,EC | Teleamazonas HD
-http://flash.shortgod.com/dwo20/tv7.php?id=170155
-#EXTINF:-1,EC | Teleamazonas Sierra
-http://flash.shortgod.com/dwo20/tv7.php?id=170134
-#EXTINF:-1,EC | TVC FHD
-http://flash.shortgod.com/dwo20/tv7.php?id=170156
-#EXTINF:-1,DIRECTV SPORTS PE
-http://flash.shortgod.com/dwo20/tv6.php?id=165215
-#EXTINF:-1,DIRECTV SPORTS CH
-http://flash.shortgod.com/dwo20/tv6.php?id=169906
-#EXTINF:-1,DIRECTV SPORTS PLUS;
-http://flash.shortgod.com/dwo20/tv6.php?id=169904
-#EXTINF:-1,DIRECTV SPORTS AR
-http://flash.shortgod.com/dwo20/tv6.php?id=169947
-#EXTINF:-1,DIRECTV SPORTS 2;
-http://flash.shortgod.com/dwo20/tv6.php?id=169946
-#EXTINF:-1,DIRECTV SPORTS
-http://flash.shortgod.com/dwo20/tv6.php?id=166600
-#EXTINF:-1,DIRECTV SPORTS 2
-http://flash.shortgod.com/dwo20/tv6.php?id=166599
-#EXTINF:-1,DIRECTV SPORTS EC;
-http://flash.shortgod.com/dwo20/tv6.php?id=165697
-#EXTINF:-1,DIRECTV SPORTS PLUS
-http://flash.shortgod.com/dwo20/tv6.php?id=165647
-#EXTINF:-1,DIRECTV SPORTS URU
-http://flash.shortgod.com/dwo20/tv6.php?id=164325
-#EXTINF:-1,USA: ESPN 3 SPANISH
-http://flash.shortgod.com/dwo20/tv6.php?id=195751
+
 #EXTINF:-1,USA: ESPN DEPORTES
-http://flash.shortgod.com/dwo20/tv6.php?id=195752
+https://ad20171.openhd.lol/cdn/myfeed61/tracks-v1a1/mono.m3u8
 
 
 
