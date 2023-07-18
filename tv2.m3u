@@ -1,1 +1,31 @@
+#EXTINF:-1,ECU : Canal Uno
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=529.ts
 
+#EXTINF:-1,ECU : Ecuador TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=525.ts
+
+#EXTINF:-1,ECU : Ecuavisa
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=524.ts
+
+#EXTINF:-1,ECU : GamaVision HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=531.ts
+
+#EXTINF:-1,ECU : RTS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=530.ts
+
+#EXTINF:-1,ECU : TC Television
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=526.ts
+
+#EXTINF:-1,ECU : TeleAmazonas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=527.ts
+
+#EXTINF:-1,ECU : TVC Televicentro
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://pe.shortgod.com/pin/tv2.php?id=528.ts
