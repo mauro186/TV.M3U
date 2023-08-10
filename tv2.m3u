@@ -32,3 +32,6 @@ http://pe.shortgod.com/pin/tv2.php?id=528.ts
 
 #EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 3
 https://youvideostreaming.club/hls/ecutv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tctelevision.com/core/img/tc2020azul.png" group-title="TV ECUADOR", TC TELEVISION 3
+https://youvideostreaming.club/hls/ecutv3.m3u8
